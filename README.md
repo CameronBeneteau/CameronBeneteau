@@ -10,7 +10,7 @@ I'm in my penultimate year of a double degree in Mechatronics Engineering & Busi
 
 - 🏦 Software developer intern at [RBC](https://www.rbc.com/about-rbc.html) - [Capital Markets](https://www.rbccm.com/en/)
 - 🚀 Project Manager for [McMaster Rocketry](https://www.macrocketry.ca/) (watch our 3km/10,000ft [launch video](https://www.youtube.com/watch?v=4lxF2DUAMRA))
-- 🏭 Software developer intern at [CenterLine](https://www.cntrline.com/)
+- 🏭 Software developer intern at [CenterLine (Windsor) Limited](https://www.cntrline.com/)
 - 🧑🏼‍💻 Attendee Relations Executive for [DeltaHacks 7](https://deltahacks.com/)
 - ⚙️ Participant of the [McMaster Engineering Competition](https://macengcomp.weebly.com/)
 - 💻 Participant of [MasseyHacks](https://masseyhacks.ca/) III, IV & V
