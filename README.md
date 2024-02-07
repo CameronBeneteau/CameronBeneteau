@@ -27,5 +27,5 @@ I'm in my penultimate year of a double degree in Mechatronics Engineering & Busi
 
 - [Website](https://cameronbeneteau.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/cameronbeneteau/)
-- [Resume](https://cameronbeneteau.github.io/Cameron_Beneteau_Resume.pdf)
+- [Resume](https://cameronbeneteau.github.io/Cameron_Beneteau_resume.pdf)
 - [Email](mailto:beneteac@mcmaster.ca)
