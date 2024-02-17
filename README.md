@@ -18,7 +18,7 @@ I'm in my penultimate year of a double degree in Mechatronics Engineering & Busi
 
 ### 😎 Some "non-techy" things
 
-- 🧩 Personal best solving a Rubik's Cube = 18.79s (working toward sub 10s)
+- 🧩 Personal best solving a Rubik's Cube = 17.19s (working toward sub 10s)
 - ⚾️ # of baseballs caught at Blue Jays games = 0
 - 🏎 Formula 1. December 12, 2021. Abu Dhabi. Yas Marina Circuit. Lap 58. Turn 5.
 - ⛳️ A bad day on the golf course always beats a good day at the office
