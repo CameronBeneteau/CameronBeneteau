@@ -4,11 +4,12 @@ I'm in my final year of a double degree in Mechatronics Engineering and Business
 
 ### 💡 Currently
 
-- 🔢 Quantitative Developer intern at [RBC](https://www.rbc.com/about-rbc.html) [Global Asset Management](https://www.rbcgam.com/en/ca/)
-- 📈 Quantitative Analyst for the [McMaster DeGroote Finance and Investment Council (DFIC)](https://www.degrootefinance.ca/quant-group)
+- 📊 Quantitative Strategies Portfolio Manager for the [McMaster DeGroote Finance and Investment Council (DFIC)](https://www.degrootefinance.ca/quant-group)
 
 ### 🔄 Previously
 
+- 🔢 Quantitative Developer intern at [RBC](https://www.rbc.com/about-rbc.html) [Global Asset Management](https://www.rbcgam.com/en/ca/)
+- 📈 Quantitative Strategies Analyst for the [McMaster DeGroote Finance and Investment Council (DFIC)](https://www.degrootefinance.ca/quant-group)
 - 🧾 Software Developer intern at [Caseware](https://www.caseware.com/ca)
 - 🤖 Participant in [DeltaHacks 10](https://deltahacks.com/)
 - 🏦 Software Developer intern at [RBC](https://www.rbc.com/about-rbc.html) [Capital Markets](https://www.rbccm.com/en/)
