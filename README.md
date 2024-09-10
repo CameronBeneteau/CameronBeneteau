@@ -1,6 +1,6 @@
 # Hi, I'm Cameron 👋
 
-I'm in my final year of a double degree in Mechatronics Engineering and Business at [McMaster University](https://www.mcmaster.ca/).
+I'm in my final year of a double degree in Mechatronics Engineering & Business at [McMaster University](https://www.mcmaster.ca/).
 
 ### 💡 Currently
 
