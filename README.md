@@ -8,6 +8,7 @@ I'm in my final year of a double degree in Mechatronics Engineering & Business a
 
 ### 🔄 Previously
 
+- 🪿 Participant in [Hack the North 11](https://hackthenorth.com/)
 - 🔢 Quantitative Developer intern at [RBC](https://www.rbc.com/about-rbc.html) [Global Asset Management](https://www.rbcgam.com/en/ca/)
 - 📈 Quantitative Analyst for the [McMaster DeGroote Finance and Investment Council (DFIC)](https://www.degrootefinance.ca/quant-group)
 - 🧾 Software Developer intern at [Caseware](https://www.caseware.com/ca)
