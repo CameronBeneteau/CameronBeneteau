@@ -5,9 +5,9 @@ I'm in my final year of a double degree in Mechatronics Engineering & Business a
 ### 💡 What I'm Focused on Right Now...
 
 - 📊 Portfolio Manager of Quantitative Strategies for the [McMaster DeGroote Finance and Investment Council (DFIC)](https://www.degrootefinance.ca/quant-group)
-- 🏎️ Software Developer for the [McMaster Fomula Electric Reacing Team](https://macformularacing.com/)
+- 🏎️ Software Developer for the [McMaster Fomula Electric](https://macformularacing.com/) racing team
 
-### 🏢 Past Professional Experience...
+### 🏢 Past Work Experience...
 
 - 🔢 Quantitative Developer intern at [RBC](https://www.rbc.com/about-rbc.html) - [Global Asset Management](https://www.rbcgam.com/en/ca/)
 - 🧾 Software Developer intern at [Caseware](https://www.caseware.com/ca)
@@ -19,7 +19,7 @@ I'm in my final year of a double degree in Mechatronics Engineering & Business a
 - 🪿 Participant and [winner](https://devpost.com/software/align-sqzt8c) at [Hack the North 11](https://hackthenorth.com/)
 - 📈 Quantitative Analyst for the [McMaster DeGroote Finance and Investment Council (DFIC)](https://www.degrootefinance.ca/quant-group)
 - 🤖 Participant in [DeltaHacks 10](https://deltahacks.com/)
-- 🚀 Project Manager for [McMaster Rocketry](https://www.macrocketry.ca/) (watch our 3km/10,000ft [launch video](https://www.youtube.com/watch?v=4lxF2DUAMRA))
+- 🚀 Project Manager for the [McMaster Rocketry](https://www.macrocketry.ca/) team (watch our launch video [here](https://www.youtube.com/watch?v=4lxF2DUAMRA))
 - 🧑🏼‍💻 Executive organizer of Attendee Relations for [DeltaHacks 7](https://deltahacks.com/)
 - ⚙️ Participant in the [McMaster Engineering Competition](https://macengcomp.weebly.com/) (x2)
 - 💻 Participant in [MasseyHacks](https://masseyhacks.ca/) III, IV & V
