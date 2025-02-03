@@ -1,18 +1,18 @@
 # Hi, I'm Cameron 👋
 
-I'm in my final year of a double degree in Mechatronics Engineering & Business Management [McMaster University](https://www.mcmaster.ca/).
+I'm in my final year of a double degree in Mechatronics Engineering & Management [McMaster University](https://www.mcmaster.ca/).
 
 ## 💡 What I'm Focused on Now
 
 - 📊 Portfolio Manager of Quantitative Strategies for the [McMaster DeGroote Finance and Investment Council (DFIC)](https://www.degrootefinance.ca/quant-group)
-- 🏎️ Software Developer for the [McMaster Fomula Electric](https://macformularacing.com/) racing team
+- 🏎️ Software Engineer for the [McMaster Fomula Electric](https://macformularacing.com/) racing team
 
 ## 🏢 Past Work Experience
 
 - 🔢 Quantitative Developer intern at [RBC](https://www.rbc.com/about-rbc.html) - [Global Asset Management](https://www.rbcgam.com/en/ca/)
-- 🧾 Software Developer intern at [Caseware](https://www.caseware.com/ca)
-- 🏦 Software Developer intern at [RBC](https://www.rbc.com/about-rbc.html) - [Capital Markets](https://www.rbccm.com/en/)
-- 🏭 Software Developer intern at [CenterLine (Windsor) Limited](https://www.cntrline.com/)
+- 🧾 Software Engineer intern at [Caseware](https://www.caseware.com/ca)
+- 🏦 Software Engineer intern at [RBC](https://www.rbc.com/about-rbc.html) - [Capital Markets](https://www.rbccm.com/en/)
+- 🏭 Software Engineer intern at [CenterLine (Windsor) Limited](https://www.cntrline.com/)
 
 ## 🔄 Past Projects & Involvement
 
