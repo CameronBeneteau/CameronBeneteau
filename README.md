@@ -9,10 +9,10 @@ I'm in my final year of a double degree in Mechatronics Engineering & Management
 
 ## 🏢 Past Work Experience
 
-- 🔢 Quantitative Developer intern at [RBC](https://www.rbc.com/about-rbc.html) - [Global Asset Management](https://www.rbcgam.com/en/ca/)
-- 🧾 Software Engineer intern at [Caseware](https://www.caseware.com/ca)
-- 🏦 Software Engineer intern at [RBC](https://www.rbc.com/about-rbc.html) - [Capital Markets](https://www.rbccm.com/en/)
-- 🏭 Software Engineer intern at [CenterLine (Windsor) Limited](https://www.cntrline.com/)
+- 🔢 Quantitative Developer Intern at [RBC](https://www.rbc.com/about-rbc.html) - [Global Asset Management](https://www.rbcgam.com/en/ca/)
+- 🧾 Software Engineer Intern at [Caseware](https://www.caseware.com/ca)
+- 🏦 Software Engineer Intern at [RBC](https://www.rbc.com/about-rbc.html) - [Capital Markets](https://www.rbccm.com/en/)
+- 🏭 Software Engineer Intern at [CenterLine (Windsor) Limited](https://www.cntrline.com/)
 
 ## 🔄 Past Projects & Involvement
 
